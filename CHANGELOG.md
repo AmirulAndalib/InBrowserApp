@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/InBrowserApp/InBrowserApp/compare/v2.2.0...v2.2.1) (2026-09-29)
+
+
+### Bug Fixes
+
+* **ui:** normalize tool panel card spacing ([#1037](https://github.com/InBrowserApp/InBrowserApp/issues/1037)) ([fa83735](https://github.com/InBrowserApp/InBrowserApp/commit/fa8373572538218810ac238924de62af90ecde98))
+
 ## [2.2.0](https://github.com/InBrowserApp/InBrowserApp/compare/v2.1.0...v2.2.0) (2026-07-17)
 
 
